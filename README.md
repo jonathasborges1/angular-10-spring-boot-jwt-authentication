@@ -37,6 +37,8 @@ tree
 
 Canal: BezKoder
 
+Youtube: https://www.youtube.com/watch?v=QdXHkybzrUU (18:50)
+
 Fonte: https://github.com/bezkoder/angular-10-spring-boot-jwt-authentication
 
 Repositório criado apenas para fins de estudos
