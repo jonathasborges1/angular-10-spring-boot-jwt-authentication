@@ -29,7 +29,17 @@ tree
 │                       ├── UserDetailsImpl.java
 │                       └── UserDetailsServiceImpl.java
 ```
+**Keyword**: Angular + Spring Boot: JWT Authentication & Authorization
 
+![image](https://user-images.githubusercontent.com/12356493/142494748-1f1f5253-8854-4547-8cec-9504dd416066.png)
+
+**Título** : Angular 10/11/12 + Spring Boot: JWT Authentication & Authorization with Spring Security example
+
+Canal: BezKoder
+
+Fonte: https://github.com/bezkoder/angular-10-spring-boot-jwt-authentication
+
+Repositório criado apenas para fins de estudos
 
 
 In this tutorial, I will show you how to build a full stack Angular 10 + Spring Boot JWT Authentication example. The back-end server uses Spring Boot with Spring Security for JWT Authentication & Authorization, Spring Data JPA for interacting with database. The front-end will be built using Angular 10 with HttpInterceptor & Form validation.
